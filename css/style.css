@@ -453,7 +453,11 @@ img {
 }
 .auth-switch a {
   color: var(--primary);
+<<<<<<< HEAD
   font-weight: 900;
+=======
+  font-weight: 800;
+>>>>>>> c108add (Changed the css)
 }
 
 /* Footer */
